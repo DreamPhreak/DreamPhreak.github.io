@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>[DP]</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<style type="text/css">
+* {
+	margin: 0px;
+}
+body {
+	color: #fff;
+	background-color: #171717;
+}
+.wrapper {
+	font-family: Monospace;
+	font-size: 14px;
+	margin: 0 0 0 0;
+    width: 100%;
+}
+
+.header_title {
+	text-align: center;
+	width: 555px;
+	margin-bottom: 10px;
+}
+
+.header_nav, .content, .footer {
+	text-align: left;
+	width: 555px;
+	margin-left: 25px;
+	margin-bottom: 10px;
+}
+
+a:link, a:visited, a:active {
+	text-decoration: none;
+	color: #0080c0;
+}
+a:hover {
+	color: #b3e7ff;
+}
+
+</style>
+
+</head>
+
+	<body>
+	<div class="wrapper">
+		<div class="header_title">
+<pre>
+<font color="#b3e7ff">______                         ______ _                    _    </font>
+<font color="#66cdff">|  _  \                        | ___ \ |                  | |   </font>
+<font color="#0bafff">| | | |_ __ ___  __ _ _ __ ___ | |_/ / |__  _ __ ___  __ _| | __</font>
+<font color="#0080c0">| | | | '__/ _ \/ _` | '_ ` _ \|  __/| '_ \| '__/ _ \/ _` | |/ /</font>
+<font color="#0080c0">| |/ /| | |  __/ (_| | | | | | | |   | | | | | |  __/ (_| |   < </font>
+<font color="#0080c0">|___/ |_|  \___|\__,_|_| |_| |_\_|   |_| |_|_|  \___|\__,_|_|\_\</font>
+</pre>
+		</div>
+		<div class="header_nav">
+<pre>
+[<a href="index.php">Home</a>] [<a href="specs.php">Computer Specs</a>] [<a href="social.php">Social Accounts</a>]
+</pre>
+		</div>
+		
+		<div class="content">
+			<ul>
+				<li>Tower: Corsair Vengeance C70, Arctic White</li>
+				<li>Motherboard: Asus P8Z77-V Pro</li>
+				<li>CPU: Intel i5-3570k (OC from 3.4GHz to 4.1GHz (safe))</li>
+				<li>GPU: Nvidia GeForce GTX 680</li>
+				<li>RAM: Kingston 32GB (4x8GB) DDR3</li>
+				<li>Mouse: It's complicated.</li>
+				<li>Keyboard: Drevo Calibur 71-key, Blue Switches</li>
+				<li>Monitors: 3.</li>
+		</div>
+		
+		<div class="footer">
+			<img src="laincomputers.gif" />
+		</div>
+	</div>
+	</body>
+</html>
